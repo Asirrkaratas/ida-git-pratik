@@ -1,1 +1,0 @@
-print("IDA sensör testi başarılı.")
