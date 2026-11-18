@@ -1,0 +1,1 @@
+print("IDA sistem testi başarılı")
